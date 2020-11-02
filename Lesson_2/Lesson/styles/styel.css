@@ -1,0 +1,47 @@
+.H0 {
+  
+  width: 320px;
+  border-radius: 8px;
+  box-shadow: 5px 5px 0 0 rgb(0,0,0);
+     }
+
+.H1 {
+height: 100px;
+
+
+padding: 10px;
+background:rgb(186, 216, 186);
+border-radius: 8px 8px 0 0 ;
+text-align: center;
+line-height: 70px;
+
+}
+.H2 {
+font-size: 60px;
+font-weight: 60px;
+}
+.line {
+  background-color: black;
+height: 1px;
+
+
+}
+
+
+
+.H3 {
+  height: 100px;
+  
+ 
+  padding: 10px;
+  background: rgb(223, 213, 213);
+  border-radius: 0 0 8px 8px;
+    text-align: center;
+  line-height: 70px;
+  
+  }
+  .H4 {
+  font-size: 60px;
+  font-weight: 60px;
+  }
+  

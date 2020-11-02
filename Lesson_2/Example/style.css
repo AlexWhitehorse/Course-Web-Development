@@ -1,0 +1,98 @@
+html {
+    font-family: cursive;
+    font-size: 1em;
+}
+
+.margin-top-3em{
+    margin-top: 3em;
+}
+/* Blue alert */
+.alert {
+    background-color: rgba(0, 140, 255, 0.253);
+    padding: 0.2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(0, 140, 255, 0.644);
+}
+
+.alert-text {
+    color:  rgb(0, 84, 153);
+}
+
+/* Green block */
+
+.sucscessMsg {
+    background-color: #1557242f;
+    padding: 0.2rem 2rem 0.2rem 2rem;
+    border: 1px solid   #1557247a;
+    border-radius: 0.5rem;
+}
+
+.green-line {
+    background-color: #15572441;
+    height: 1px;
+}
+
+.text-green {
+    color:  #155724be;
+}
+
+/* text With Btn */
+
+.textWithBtn {
+    background-color: rgb(235, 235, 235);
+    padding: 0.6em;
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+}
+
+.textWithBtn-span {
+    background-color: rgb(136, 136, 136);
+    padding: 0.20rem;
+    border-radius: 0.20rem;
+    color: white;
+}
+
+/* btns */
+
+.btns-primary {
+    color:blue;
+    padding: 0.4rem 0.7rem 0.4rem 1.1rem;
+    border: 1px solid blue;
+    border-radius: 0.3em;
+    text-align: center;
+}
+
+.btns-secondary {
+    color:rgb(70, 70, 70);
+    padding: 0.4rem 0.7rem 0.4rem 1.1rem;
+    border: 1px solid rgb(83, 83, 83);
+    border-radius: 0.3em;
+    text-align: center;
+    margin-left: 0.5rem;
+}
+
+/* Group btn */
+
+.bg-gray {
+    background-color: rgb(124, 124, 124);
+}
+
+.text-color-white {
+    color: white;
+}
+
+.group-btn-padding {
+    padding: 0.4rem 0.7rem 0.4rem 1.1rem;
+}
+
+.first-btn {
+    background-color: rgb(82, 82, 82);
+    border-radius: 0.3rem 0 0 0.3rem;
+}
+
+.end-btn {
+    border-radius: 0 0.3rem 0.3rem 0;
+}
